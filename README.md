@@ -1,4 +1,4 @@
-# Arrhythmia-Classification-Using-ECG. #
+# Arrhythmia-Classification. #
 ## Predict different Arrhythmia on ECG: ##
   -N : Non-ectopic beats (Normal Beat)
   -L : Left Bundle Branch Block
